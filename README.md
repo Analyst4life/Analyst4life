@@ -4,7 +4,7 @@ Welcome to my GitHub profile! A business and technology professional with an MBA
 
 ## About Me
 
-Specializing in bridging business strategy and technology, with a strong foundation in data analytics and growing technical skills. Focused on leveraging data and tools to generate actionable insights and support informed decision-making.
+Specializing in bridging business strategy and technology, with a strong foundation in data analytics and expanding technical skills. Focused on using data and modern tools to generate actionable insights and support informed decision-making. Eager to explore opportunities at the intersection of coding, AI, business strategy, information technology, and data analysis through my MBA and MSIT background.
 
 ## What I Do
 
